@@ -39,6 +39,8 @@ I'm Assah Bismark, a Computer Engineer. Welcome to my corner of the GitHub unive
 - 📧 Email: BismarkAbah.Assah@adorsys.com
 - 💼 LinkedIn: [Assah Bismark](https://www.linkedin.com/in/assah-bismark-608a6a251/)
 - 💼 Twitter: [@Assah_Bismark](https://twitter.com/Assah_Bismark)
+- 💬 Discord: assahbismark
+- 💬 Slack: Assah Bismark
 
 ## 📈 GitHub Stats
 
