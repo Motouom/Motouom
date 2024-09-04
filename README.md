@@ -1,10 +1,10 @@
 # Hello, There! 👋
 
-I'm Assah Bismark, a Computer Engineer. Welcome to my corner of the GitHub universe!
+I'm Assah Bismark. Welcome to my corner of the GitHub universe!
 
 ## 👨‍💻 About Me
 
-- 💼 Aspiring DevOps Engineer with a passion for building secure cloud solutions
+- 💼 FullStack Software Engineer with a passion for building secure cloud solutions
 - 🌐 Always exploring new technologies and tools
 - 💻 Proficient in front-end/back-end development, graphic design, blockchain technology, and DeFi analysis
 - 📚 Lifelong learner and advocate for knowledge sharing
