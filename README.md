@@ -1,5 +1,5 @@
 # Bismark Abah - @AssahBismarkabah
-### Fullstack Software Engineer | DevOps & DevSecOps Specialist @ [adorsys](https://www.adorsys.de/)
+### Fullstack Software Engineer @ [adorsys](https://www.adorsys.de/)
 
 Hi, welcome to my GitHub profile! 👋
 
