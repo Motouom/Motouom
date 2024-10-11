@@ -2,7 +2,6 @@
 
 Hi, welcome to my GitHub profile! 👋
 
-## Developer and Engineer
 I'm a full-stack engineer with expertise in building scalable, secure web applications and modern CI/CD pipelines. My work spans across frontend, backend, and cloud infrastructures, leveraging tools like Docker, Kubernetes, React, Java EE, and Keycloak. Security and automation are my key focus areas, utilizing OAuth2, OpenID Connect, and best DevSecOps practices.
 
 #### 🌱 My current projects
