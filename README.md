@@ -1,4 +1,3 @@
-# Bismark Abah - @AssahBismarkabah
 ### Fullstack Software Engineer @ [adorsys](https://www.adorsys.de/)
 
 Hi, welcome to my GitHub profile! 👋
