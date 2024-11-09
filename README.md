@@ -55,5 +55,7 @@ Feel free to reach out—I'm always open to collaboration or a quick chat!
 #### 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AssahBismarkabah&count_private=true&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AssahBismarkabah&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+
+[![](https://visitcount.itsvg.in/api?id=freeCodeCamp&icon=0&color=0)](https://visitcount.itsvg.in)
