@@ -1,4 +1,4 @@
-### Fullstack Software Engineer @ [adorsys](https://www.adorsys.de/)
+### Fullstack Software Engineer
 
 Hi, welcome to my GitHub profile! 👋
 
