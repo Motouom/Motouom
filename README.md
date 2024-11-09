@@ -47,7 +47,7 @@ I'm a full-stack engineer with expertise in building scalable, secure web applic
 
 #### 👯 Check out some of my recent followers
 - [coder123](https://github.com/coder123)
-- [devQueen](https://github.com/devQueen)
+
 
 #### 💬 Feedback
 Feel free to reach out—I'm always open to collaboration or a quick chat!
@@ -55,7 +55,5 @@ Feel free to reach out—I'm always open to collaboration or a quick chat!
 #### 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AssahBismarkabah&count_private=true&theme=tokyonight&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AssahBismarkabah&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 [![](https://visitcount.itsvg.in/api?id=freeCodeCamp&icon=0&color=0)](https://visitcount.itsvg.in)
