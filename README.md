@@ -56,4 +56,4 @@ Feel free to reach out—I'm always open to collaboration or a quick chat!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AssahBismarkabah&count_private=true&theme=tokyonight&show_icons=true)
 
-[![](https://visitcount.itsvg.in/api?id=freeCodeCamp&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AssahBismarkabah&icon=1&color=1)](https://visitcount.itsvg.in)
