@@ -22,19 +22,6 @@
 ### <img src="https://colpat.itsvg.in/logo.png" width="16px" />  e2e Banking app
 [e2e banking app](https://github.com/Motouom/e2e-banking-app) Is an aplication that helps in money transfer easily and faster.
 
-### <img src="https://jobmatch.itsvg.in/assets/logo.png" width="16px" />  JobMatchPro : your AI Recruiter
-[GIS Blog](https://github.com/Motouom/GIS-BLOG) A platform shere students and members of a communitty or an organisation can post
-
-### <img src="https://yasic.vercel.app/assets/logo.png" width="16px" /> YASIC - Yet Another Simple Image Converter
-[Data mining](https://github.com/Motouom/example-association-learning-rule) This repository contains a collection of data mining and machine learning algorithms implemented in Python.
-
-### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  SerBot
-[SerBot](https://serbot.vercel.app/) is admin panel for Smart Work Clothing. In concept of this we are using sensors, Wi-Fi module and GPS through which we measure  environmental and worker conditions are these data presented in dashboard available to safety specialist physicians, upper management and many other supporting. Key insights leading to risk assessments and mitigation actions to reduce or preventing injuries and accident.
-
-
-### <img src="https://hash.itsvg.in/logo.png" width="16px" />  #Hash
-Hashing and Encryption made easy using [#Hash](https://hash.itsvg.in). SHA-1, SHA256, SHA384, SHA512, MD5 hashing with 100% accuracy in realtime conversion.
-
 <p align="right">
 .. working on few more projects 😉 </p>
 
